@@ -6,10 +6,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 
-CHROME_DRIVER_PATH = r" D:\chromedriver_win32\chromedriver.exe "
-instagram_EMAIL = "redocsama"
-instagram_PASSWORD = "Ojshavaiml@2k25"
-account_to_follow = "anime_world.____"
+CHROME_DRIVER_PATH =  YOUR CHROMEDRIVER PATH
+instagram_EMAIL = YOUR INSTAGRAM USERNAME
+instagram_PASSWORD = YOUR INSTAGRAM PASSWORD
+account_to_follow = INSTA ACCOUNT WHOS FOLLOWERS YOU WANT TO FOLLOW
 
 
 class Instafollower():
